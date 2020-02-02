@@ -24,7 +24,7 @@
 
 ### english
 This label was created by listening only to the first sentence of parallel100 in the [JVS corpus](https://sites.google.com/site/shinnosuketakamichi/research-topics/jvs_corpus).<br>
-Label items refer to this [PDF] (https://lab.synergy-marketing.co.jp/wpsys/wp-content/uploads/2014/03/201403_asj.pdf).
+Label items refer to this [PDF](https://lab.synergy-marketing.co.jp/wpsys/wp-content/uploads/2014/03/201403_asj.pdf).
 
 The following 12 labels are currently supported.
 
